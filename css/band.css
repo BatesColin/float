@@ -1,0 +1,13 @@
+img {
+  float: right;
+  width: 25%;
+  height: 25%;
+}
+
+div.sidebar {
+  float:left;
+}
+.column {
+  width: 300px;
+  float: left;
+}
